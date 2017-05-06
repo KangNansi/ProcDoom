@@ -19,3 +19,10 @@ C:\Users\guillaume\Documents\2017\doom\doombuilder\Source\Plugins\Statistics\obj
 C:\Users\guillaume\Documents\2017\doom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\Statistics.csproj.GenerateResource.Cache
 C:\Users\guillaume\Documents\2017\doom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\Statistics.dll
 C:\Users\guillaume\Documents\2017\doom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\Statistics.pdb
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Build\Plugins\Statistics.dll
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Build\Plugins\Statistics.pdb
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\CodeImp.DoomBuilder.Statistics.StatisticsForm.resources
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\Statistics.csproj.GenerateResource.Cache
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\Statistics.dll
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\Statistics\obj\x86\Debug\Statistics.pdb

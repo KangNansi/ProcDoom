@@ -23,3 +23,10 @@ C:\Users\guillaume\Documents\2017\doom\doombuilder\Source\Build\Plugins\Generati
 C:\Users\guillaume\Documents\2017\doom\doombuilder\Source\Build\Plugins\GenerativeDoom.dll.lastcodeanalysissucceeded
 C:\Users\guillaume\Documents\2017\doom\doombuilder\Build\Plugins\GenerativeDoom.dll
 C:\Users\guillaume\Documents\2017\doom\doombuilder\Build\Plugins\GenerativeDoom.pdb
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\GenerativeDoom\GenerativeDoom\obj\Debug\GenerativeDoom.csprojResolveAssemblyReference.cache
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\GenerativeDoom\GenerativeDoom\obj\Debug\GenerativeDoom.GDForm.resources
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\GenerativeDoom\GenerativeDoom\obj\Debug\GenerativeDoom.csproj.GenerateResource.Cache
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\GenerativeDoom\GenerativeDoom\obj\Debug\GenerativeDoom.dll
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Source\Plugins\GenerativeDoom\GenerativeDoom\obj\Debug\GenerativeDoom.pdb
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Build\Plugins\GenerativeDoom.dll
+C:\Users\Nans\Documents\ProcDoom\doombuilder\Build\Plugins\GenerativeDoom.pdb
